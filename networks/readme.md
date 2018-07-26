@@ -1,1 +1,1 @@
-This fold contains the fused networks used in the study.
+This folder contains the fused networks used in the study.
