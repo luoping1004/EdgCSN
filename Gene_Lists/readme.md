@@ -7,7 +7,6 @@ The benchmark file contains the indices of disease genes and 50 sets of non-dise
 import pickle
 
 with open('benchmark_1.1_3', 'rb') as fp:
-
     Bench = pickle.load(fp)
     
 ```
